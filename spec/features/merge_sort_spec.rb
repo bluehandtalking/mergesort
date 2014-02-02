@@ -1,5 +1,5 @@
 require 'spec_helper'
-require_relative '../../lib/merge_sort'
+
 describe "implementation of the famous and fast merge sort algorithm" do
 	include MergeSort
 	it "takes an array and sorts it by using a recursive method" do
